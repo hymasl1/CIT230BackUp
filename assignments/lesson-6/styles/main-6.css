@@ -8,17 +8,20 @@
 
 body {
     display: block;
-    flex-wrap: font-size: 20px;
+    font-size: 20px;
     font-family: sans-serif;
     background-color: beige;
 }
+
 section img {
     width: 100%;
 }
-picture{
+
+picture {
     display: block;
-    box-shadow: #666666;
+    box-shadow: #666;
 }
+
 header,
 nav,
 main,
@@ -67,8 +70,8 @@ nav ul li a:hover:not(.active) {
 
 main {}
 
-.current{
-    text-decoration-line:underline;
+.current {
+    text-decoration-line: underline;
     font-size: 20px;
 }
 
